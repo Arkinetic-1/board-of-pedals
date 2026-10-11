@@ -1,0 +1,50 @@
+/*Colors*/
+body {
+    background-color: rgb(39, 38, 43);
+    color: white;
+}
+
+.bg-head {
+    background-image: linear-gradient(to right, #010104, #040b4d);
+}
+
+.bg-main {
+    background-image: linear-gradient(to bottom, #565360, #797589);
+}
+
+.bg-carousel {
+    background-image: linear-gradient(to top, #43404a, #9f9ab5);
+}
+
+/*Text*/
+.orb {
+    font-family: "orbitron", sans-serif;
+}
+
+.aud {
+    font-family: "audiowide", sans-serif;
+    font-size: 24px;
+}
+
+.zen {
+    font-family: "zen dots", sans-serif;
+    color: white;
+}
+
+.textshad {
+    text-shadow: 2px 2px black;
+}
+
+/*Utilities*/
+hr {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+.shad {
+    box-shadow: 4px 4px black
+}
+
+.links {
+    margin-left: 145px;
+}
