@@ -31,6 +31,13 @@ body {
     color: white;
 }
 
+.ast {
+    font-family: "asset", serif;
+    color: white;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .textshad {
     text-shadow: 2px 2px black;
 }
@@ -47,4 +54,14 @@ hr {
 
 .links {
     margin-left: 145px;
+}
+
+.ts9case {
+    background-color: #53AC53;
+}
+
+.ts9plate {
+    background-color: #BBC2CC;
+    border-color: #010104;
+    border-width: 3px;
 }
