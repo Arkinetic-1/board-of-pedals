@@ -23,7 +23,6 @@ body {
 
 .aud {
     font-family: "audiowide", sans-serif;
-    font-size: 24px;
 }
 
 .zen {
@@ -36,9 +35,7 @@ body {
     color: white;
 }
 
-.textshad {
-    text-shadow: 2px 2px black;
-}
+
 
 /*Utilities*/
 hr {
@@ -48,6 +45,10 @@ hr {
 
 .shad {
     box-shadow: 4px 4px black
+}
+
+.textshad {
+    text-shadow: 2px 2px black;
 }
 
 .links {
