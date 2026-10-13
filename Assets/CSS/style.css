@@ -66,6 +66,21 @@ hr {
     border-width: 3px;
 }
 
+.ts10case {
+    background-color: #7bc869;
+}
+
+.ts10plate {
+    background-image: linear-gradient(to right, #41433c, #2c2c2c);
+    border-color: #010104;
+    border-width: 3px;
+}
+
 .bg-ts {
     background-image: linear-gradient(to right, #53AC53, #198754);
 }
+
+.bg-ts10 {
+    background-image: linear-gradient(to right, #53AC53, #7bc869);
+}
+
