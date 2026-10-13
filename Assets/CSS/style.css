@@ -34,8 +34,6 @@ body {
 .ast {
     font-family: "asset", serif;
     color: white;
-    font-weight: 400;
-    font-style: normal;
 }
 
 .textshad {
@@ -61,7 +59,7 @@ hr {
 }
 
 .ts9plate {
-    background-color: #BBC2CC;
+    background-image: linear-gradient(to left, #BBC2CC, #e1eaf2);
     border-color: #010104;
     border-width: 3px;
 }
