@@ -65,3 +65,7 @@ hr {
     border-color: #010104;
     border-width: 3px;
 }
+
+.bg-ts {
+    background-image: linear-gradient(to right, #53AC53, #198754);
+}
